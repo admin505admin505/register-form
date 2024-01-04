@@ -1,6 +1,4 @@
-body{
-  background:grey;
-}
+
 .registration-form {
   width: 100%;
   max-width: 400px;
@@ -21,4 +19,9 @@ body{
   border: none;
   border-radius: 5px;
   cursor: pointer;
+}
+
+h1{
+  color:cyan;
+  text-align:center;
 }
