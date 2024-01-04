@@ -1,4 +1,4 @@
-body{
+.body{
   background:grey;
 }
 .registration-form {
@@ -16,8 +16,8 @@ body{
 .registration-form input[type="submit"] {
   width: 100%;
   padding: 15px;
-  background-color: cyan;
-  color: black;
+  background-color: black;
+  color: cyan;
   border: none;
   border-radius: 5px;
   cursor: pointer;
